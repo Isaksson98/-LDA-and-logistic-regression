@@ -1,0 +1,5 @@
+# Ignore all excel files
+*.xlsx
+.Rproj.user
+*.csv
+*.pdf
